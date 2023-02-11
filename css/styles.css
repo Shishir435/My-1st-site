@@ -106,7 +106,7 @@ a:hover{
 }
 
 .copy-right {
-  color: #EAF6F6;
+  color: black;
   font-size: 0.75rem;
   padding: 20px 0 0 0;
 }
@@ -145,4 +145,12 @@ a:hover{
 .push-down {
   width: 40%;
   margin: 40px auto 60px auto;
+}
+.footer-link{
+  color: black;
+}
+
+.footer-link i:hover{
+  color: white;
+  transform: scale(1.25);
 }
